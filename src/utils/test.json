@@ -1,0 +1,289 @@
+{
+  "alcohol": 0,
+  "alcoholDetails": {},
+  "allergens": {
+    "suitableForThoseAvoidingEgg": false,
+    "suitableForThoseAvoidingGluten": false,
+    "suitableForThoseAvoidingMilk": false,
+    "suitableForThoseAvoidingNuts": false,
+    "suitableForThoseAvoidingSoya": false,
+    "suitableForVegans": false,
+    "suitableForVegetarians": false
+  },
+  "attributes": {
+    "ageRestriction": false,
+    "analgesic": false,
+    "colourMayVary": false,
+    "essentialRange": false,
+    "fairtrade": false,
+    "freezing": false,
+    "frozen": false,
+    "kosher": false,
+    "microwaveable": false,
+    "organic": false,
+    "previouslyFrozen": false,
+    "seasonal": false,
+    "serviceCounter": false,
+    "varietyMayVary": false,
+    "waitroseOwnLabel": false
+  },
+  "barCode": "05411188110859.",
+  "brand": "Alpro",
+  "contents": {
+    "allergens": [],
+    "brandedUsageInstr": "Can be used hot or cold, do not freeze. Try it for... Sweet and savoury cooking Brilliant breakfasts Tasty tea and coffee ...or straight from the glass",
+    "cookingInstructions": [],
+    "ingredients": "Water, <STRONG>Almond</STRONG> (2.3%), Sugar, Calcium (Tri-Calcium Phosphate), Sea Salt, Stabilisers (Locust Bean Gum, Gellan Gum), Emulsifier (Lecithins (Sunflower)), Natural Flavouring, Vitamins (B2, B12, E, D2)",
+    "marketingDescBop": "All plant, seriously nutty. Good for you, good for the planet. Calcium is needed for the maintenance of normal bones. Source of calcium and vitamins B2, B12, D, E. Low in sugars. Naturally lactose free and low in fat. Free from colours. Free from dairy and gluten. Vegan.Alpro Almond Original, the Original and the best! Lightly roasted Mediterranean almonds blended to make the perfect drink. Simply add to cereal, tea, coffee or smoothies for that plant based goodness. 100% plant based and naturally low in fat. A source of calcium and vitamins B2, B12 and D. Chilled to Perfection Our guarantee to you is serious nuttiness at its prime. Carefully crafted, deliciously chilled so that you can enjoy it at its best. You're a sensible person, and that's cool. But every now and then, it's Ok to Go Nutty. So meet Alpro® Almond drink. Our Mediterranean almonds are lightly roasted to bring out their Delicate Nuttiness. It's also low in sugars and naturally low in fat. And because it's plant-based, it's Good for the Planet Too. Nothing nutty about that. Good for You",
+    "name": "Alpro Chilled Almond Drink Original",
+    "nutrients": {
+      "nutrientsData": [
+        {
+          "name": "Energy",
+          "valuePerUnit": "93kJ",
+          "valuePerUnitUOM": "KJoules"
+        },
+        {
+          "name": "Energy",
+          "valuePerUnit": "22kcal",
+          "valuePerUnitUOM": "KCal"
+        },
+        {
+          "name": "Fat",
+          "valuePerUnit": "1.1g",
+          "valuePerUnitUOM": "Grams"
+        },
+        {
+          "name": "Of which Saturates",
+          "valuePerUnit": "0.1g",
+          "valuePerUnitUOM": "Grams"
+        },
+        {
+          "name": "Carbohydrate",
+          "valuePerUnit": "2.4g",
+          "valuePerUnitUOM": "Grams"
+        },
+        {
+          "name": "Of which Sugars",
+          "valuePerUnit": "2.4g",
+          "valuePerUnitUOM": "Grams"
+        },
+        {
+          "name": "Fibre",
+          "valuePerUnit": "0.4g",
+          "valuePerUnitUOM": "Grams"
+        },
+        {
+          "name": "Protein",
+          "valuePerUnit": "0.4g",
+          "valuePerUnitUOM": "Grams"
+        },
+        {
+          "name": "Salt",
+          "valuePerUnit": "0.14g",
+          "valuePerUnitUOM": "Grams"
+        },
+        {
+          "name": "Vitamin D",
+          "valuePerUnit": "0.75µg*",
+          "valuePerUnitUOM": "Grams"
+        },
+        {
+          "name": "Vitamin E",
+          "valuePerUnit": "1.80mg*",
+          "valuePerUnitUOM": "MilliGrams"
+        },
+        {
+          "name": "Riboflavin",
+          "valuePerUnit": "0.21mg*",
+          "valuePerUnitUOM": "MilliGrams"
+        },
+        {
+          "name": "Vitamin B12",
+          "valuePerUnit": "0.38µg*",
+          "valuePerUnitUOM": "Grams"
+        },
+        {
+          "name": "Calcium",
+          "valuePerUnit": "120mg*",
+          "valuePerUnitUOM": "MilliGrams"
+        }
+      ],
+      "per100gHeader": "per 100 ml",
+      "rdaHeader": ". * = 15% of the nutrient reference values, These values are approximate due to the variations which occur in natural ingredients"
+    },
+    "origins": [
+      {
+        "name": "CountryOfOrigin",
+        "value": "Produce of the EU"
+      },
+      {
+        "name": "Origin",
+        "value": "Made in the EU"
+      }
+    ],
+    "referenceIntakes": {
+      "riItems": [
+        {
+          "name": "Energy",
+          "percent": "1%",
+          "value": "93kJ|22kcal"
+        },
+        {
+          "name": "Salt",
+          "percent": "2%",
+          "value": "0.14 g"
+        },
+        {
+          "name": "Fat",
+          "percent": "2%",
+          "value": "1.10 g"
+        },
+        {
+          "name": "Saturates",
+          "percent": "1%",
+          "value": "0.10 g"
+        },
+        {
+          "name": "Sugars",
+          "percent": "3%",
+          "value": "2.40 g"
+        }
+      ],
+      "riPortionFooter1": "RI = % of your daily reference intake",
+      "riPortionHeader": "Each 100ml serving contains:",
+      "riPortionSize": "Per 100g/ml"
+    },
+    "statements": [
+      {
+        "name": "Lifestyle",
+        "values": [
+          "Low Fat",
+          "Low in sugar",
+          "Suitable for Vegans"
+        ]
+      },
+      {
+        "name": "Allergy advice",
+        "values": [
+          "Free From Dairy",
+          "Free From Gluten",
+          "Free From Lactose",
+          "May Contain Nuts",
+          "May contains traces of Nuts (no Peanuts)"
+        ]
+      },
+      {
+        "name": "Additives",
+        "values": [
+          "Free From Colours"
+        ]
+      },
+      {
+        "name": "Nutritional claims",
+        "values": [
+          "Source of calcium and vitamins B2, B12, D, E",
+          "Low in sugars",
+          "Naturally low in fat"
+        ]
+      },
+      {
+        "name": "Health claims",
+        "values": [
+          "Calcium is needed for the maintenance of normal bones"
+        ]
+      },
+      {
+        "name": "Warnings",
+        "values": [
+          "Can be introduced as part of a healthy balanced diet from 1 year of age. Not suitable as a main milk drink for children under 3."
+        ]
+      }
+    ]
+  },
+  "currentSaleUnitPrice": {
+    "price": {
+      "amount": 1.8,
+      "currencyCode": "GBP"
+    },
+    "quantity": {
+      "amount": 1,
+      "uom": "C62"
+    }
+  },
+  "displayPrice": "£1.35",
+  "displayPriceQualifier": "(£1.35/litre)",
+  "id": "824344-166791-166792",
+  "lineNumber": "824344",
+  "name": "Alpro Chilled Almond Drink Original",
+  "offers": [],
+  "packageContents": [],
+  "packaging": [],
+  "pricePerUnit": "(£1.80 per litre)",
+  "productImageUrls": {
+    "extraLarge": "https://d1ycl3zewbvuig.cloudfront.net/images/products/4/LN_824344_BP_4.jpg",
+    "large": "https://d1ycl3zewbvuig.cloudfront.net/images/products/11/LN_824344_BP_11.jpg",
+    "medium": "https://d1ycl3zewbvuig.cloudfront.net/images/products/3/LN_824344_BP_3.jpg",
+    "small": "https://d1ycl3zewbvuig.cloudfront.net/images/products/9/LN_824344_BP_9.jpg"
+  },
+  "productType": "G",
+  "promotion": {
+    "myWaitrosePromotion": false,
+    "promotionDescription": "Half Price",
+    "promotionExpiryDate": "2020-01-21",
+    "promotionId": 334030,
+    "promotionTypeCode": "HP",
+    "promotionUnitPrice": {
+      "amount": 0.9,
+      "currencyCode": "GBP"
+    },
+    "pyoPromotion": false
+  },
+  "promotions": [
+    {
+      "groups": [
+        {
+          "lineNumbers": [
+            "414261",
+            "825993",
+            "824344",
+            "567758",
+            "577649",
+            "860182"
+          ],
+          "name": "X",
+          "threshold": 1
+        }
+      ],
+      "myWaitrosePromotion": false,
+      "promotionDescription": "Half Price",
+      "promotionExpiryDate": "2020-01-21",
+      "promotionId": 334030,
+      "promotionTypeCode": "HP",
+      "promotionUnitPrice": {
+        "amount": 0.9,
+        "currencyCode": "GBP"
+      },
+      "pyoPromotion": false
+    }
+  ],
+  "restriction": {},
+  "reviews": {
+    "averageRating": 4.5,
+    "reviewCount": 4
+  },
+  "shortName": "Alpro almond original",
+  "size": "1litre",
+  "sizeDescription": "1litre",
+  "summary": "Almond drink with added calcium and vitamins.",
+  "weights": {
+    "pricePerUomQualifier": "(£1.35/litre)",
+    "uoms": [
+      "C62"
+    ]
+  }
+}
+
+
+
+
