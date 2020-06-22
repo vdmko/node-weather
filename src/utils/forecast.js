@@ -10,7 +10,7 @@ const forecast = (latitude, longitude, callback) => {
             callback("Unable to find forecast")
         } else {
             const currentWeather = body.current;
-            callback(undefined, `${currentWeather.weather_descriptions[0]} It's currently ${currentWeather.temperature}. It feels like ${currentWeather.feelslike} degress out`);
+            callback(undefined, `${currentWeather.weather_descriptions[0]} It's currently ${currentWeather.temperature}. It feels like ${currentWeather.feelslike} degress out. Observation time is ${currentWeather.observation_time}`);
         }
     });
 }
